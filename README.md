@@ -5,11 +5,11 @@
 
 ## RTL Implementation in System Verilog
 ### Completed
-2x2 matrix addition and substraction modules - combinational
-2x2 matrix multiplication using Strassen's algorithm - FSM
+* 2x2 matrix addition and substraction modules - combinational
+* 2x2 matrix multiplication using Strassen's algorithm - FSM
 
 ### In-progress
-4x4 matrix multiplier extending Strassen's algorithm. 
+* 4x4 matrix multiplier extending Strassen's algorithm. 
 
 ### To Do
-IMplement Karatsuba multiplication to improve individual multiplications.
+* Implement Karatsuba multiplication to improve individual multiplications.
